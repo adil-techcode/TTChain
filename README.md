@@ -12,6 +12,10 @@ A **Blockchain Price Tracker and Trader** built with **Nest.js** that automatica
 
 ## Installation
 
+### **Clone the repo**:
+   ```bash
+   git clone https://github.com/adil-techcode/TTChain
+```
 
 ## Create a .env file based on example.env.
 
